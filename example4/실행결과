@@ -1,0 +1,3 @@
+new Student() ->	Person Student 
+new Researcher() ->	Person Researcher 
+new Professor() ->	Person Researcher Professor 
