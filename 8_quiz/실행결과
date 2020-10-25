@@ -1,0 +1,12 @@
+전체 경로명이 아닌 파일 이름만 입력하는 경우, 파일은 프로젝트 폴더에 있어야 합니다.
+대상 파일명 입력>> C:\Users\김은서\Desktop\test.txt
+검색할 단어나 문장>> while
+9:while(true) {
+검색할 단어나 문장>> try
+5:try {
+검색할 단어나 문장>> int
+10:int n = fi.read(buf); // 버퍼 크기만큼 읽기. n은 실제 읽은 바이트
+17:System.out.println( src.getPath() + "를 " + dest.getPath() +
+19:} catch (IOException e) { System.out.println("파일 복사 오류"); }
+검색할 단어나 문장>> 그만
+프로그램을 종료합니다.
