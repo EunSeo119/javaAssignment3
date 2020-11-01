@@ -45,11 +45,11 @@ public class GUI extends JFrame{
 		c.add(cp,BorderLayout.CENTER);
 		setSize(300,300);
 		setVisible(true);
-	}
+	} 
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		new GUI(); 
+		new GUI();
 	}
 
 }
